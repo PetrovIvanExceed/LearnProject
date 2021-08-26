@@ -1,3 +1,5 @@
+// Найти номер последнего элемента в массиве, который соответсвует значению
+
 const testFunction = (arr, value) => {
   let number = -1;
   arr.forEach((element, index) => {
