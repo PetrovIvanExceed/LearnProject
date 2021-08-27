@@ -23,11 +23,7 @@ let collectionArr = [
 ];
 
 testFunction = (arr, val) => {
-  collectionArr.forEach(item => {
-    if(item.name === val) {
-      console.log(item)
-    }
-  })
+  return collectionArr.filter(item => (item.name === val))
 }
 
 const t = testFunction(collectionArr, 'test');
