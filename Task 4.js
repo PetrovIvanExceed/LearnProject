@@ -8,7 +8,7 @@ let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244,
 testFunction = (arr, val) => {
   let newArray = [];
 
-  array.forEach((value, index) => {
+  arr.forEach((value, index) => {
     if(value < val) {
       newArray.push(index)
     }
