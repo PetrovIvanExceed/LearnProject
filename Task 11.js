@@ -1,6 +1,8 @@
 // Вернуть true, если хотя бы 1 элемент соответсвует условию
+// В функцию передаем коллекцию и 2 значения. По результату выполнения
+// вывести true, если хотя бы у одного одно свойство равно второму параметру,
+// а другое свойство равно третьему параметру.
 
-let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244, 2545, 6, 3, 9];
 let collectionArr = [
   {
     name: 'test',
@@ -18,33 +20,11 @@ let collectionArr = [
     name: 'test',
     age: 34
   }
-]
+];
 
 testFunction = (arr, val, val2) => {
-  let result = false;
+  return arr.some(value => value.name === val && value.age === val2)
+  };
 
-  let countAll = lengthFunction(arr);
-  let count = 0;
-
-  arr.forEach(value => {
-    if(value.name === val && value.age > val2) {
-      result = true;
-      return result;
-    }
-  });
-
-  return result;
-}
-
-lengthFunction = (arr) => {
-  let count = 0;
-
-  arr.forEach((value, index) => {
-    count = index + 1;
-  });
-
-  return count;
-}
-
-const t = testFunction(collectionArr, 'rest', 18);
+const t = testFunction(collectionArr, 'test', 9);
 console.log(t);
