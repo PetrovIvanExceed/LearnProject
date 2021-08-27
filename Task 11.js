@@ -25,6 +25,7 @@ testFunction = (arr, val, val2) => {
 
   let countAll = lengthFunction(arr);
   let count = 0;
+
   arr.forEach(value => {
     if(value.name === val && value.age > val2) {
       result = true;
