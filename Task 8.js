@@ -24,9 +24,7 @@ let collectionArr = [
 ];
 
 testFunction = (arr, val, val2) => {
-  let newArray = collectionArr.filter(value =>
-    value.name === val || value.age === val2);
-    return newArray
+  return collectionArr.filter(value => value.name === val || value.age === val2)
 };
 
 const t = testFunction(collectionArr, 'rest', 18);
