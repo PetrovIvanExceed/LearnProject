@@ -1,6 +1,7 @@
 // Вернуть все элементы, которые противоположны предоставленному условию
+// В функцию передаем массив и значение. По результату выполнения вывести
+// все элементы массива, которые не равны второму параметру.
 
-let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244, 2545, 6, 3, 9];
 let collectionArr = [
   {
     name: 'test',
@@ -21,25 +22,8 @@ let collectionArr = [
 ]
 
 testFunction = (arr, val, val2) => {
-  const result = [];
-  arr.forEach(value => {
-    if(!(value.name === val && value.age > val2)) {
-      result.push(value);
-    }
-  });
-
-  return result;
-}
-
-lengthFunction = (arr) => {
-  let count = 0;
-
-  arr.forEach((value, index) => {
-    count = index + 1;
-  });
-
-  return count;
-}
+  return arr.filter(value => value.name !== val)
+  };
 
 const t = testFunction(collectionArr, 'rest', 18);
 console.log(t);
