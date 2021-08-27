@@ -1,6 +1,8 @@
-//Вывод всех объектов соответствующих значению/условию в массиве объектов
+// Вывод всех объектов соответствующих значению/условию в массиве объектов
+// В функцию передаем коллекцию и значение. По результату выполнения вывести все
+// объекты массива, конкретное свойство ('name', 'age' и тд), которых равно
+// второму параметру
 
-let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244, 2545, 6, 3, 9];
 let collectionArr = [
   {
     name: 'test',
@@ -18,25 +20,15 @@ let collectionArr = [
     name: 'test',
     age: 34
   }
-]
+];
 
 testFunction = (arr, val) => {
   collectionArr.forEach(item => {
-    if(item.age > val) {
+    if(item.name === val) {
       console.log(item)
     }
   })
 }
 
-lengthFunction = (arr) => {
-  let count = 0;
-
-  arr.forEach((value, index) => {
-    count = index + 1;
-  });
-
-  return count;
-}
-
-const t = testFunction(collectionArr, 4);
+const t = testFunction(collectionArr, 'test');
 console.log(t);
