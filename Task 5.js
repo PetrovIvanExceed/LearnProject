@@ -1,16 +1,13 @@
 // Найти номер последнего элемента в массиве, который соответсвует значению
+// В функцию передаем массив и значение. По результату выполнения вывести номер
+// последнего элемента массива, который равен второму параметру.
 
-const testFunction = (arr, value) => {
-  let number = -1;
-  arr.forEach((element, index) => {
-    if(element === value) {
-      number = index;
-    }
-  });
+const array1 = [5, 9, -1, -4, 9, 5, 7, 3, -4,
+  -1, 4, 8, 9, -4, -3, -5, 8, 5, 2];
 
-  return number;
+const testFunction = (arr, val) => {
+  return arr.lastIndexOf(val);
 }
 
-const array1 = [5, 9, -1, -4, 9, 5, 7, 3, -4, -1, 4, 8, 9, -4, -3, -5, 8, 5, 2];
 const result = testFunction(array1, 5);
 console.log('result', result);
