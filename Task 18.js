@@ -8,6 +8,10 @@ let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244,
 testFunction = (arrayVal) => {
   let arrayCopy = [...arrayVal];
   arrayCopy[5] = 1024;
+  return {
+    copy: arrayCopy,
+    val: arrayVal
+  }
 }
 
 const t = testFunction(array);
