@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task">
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 3">
+      <change afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <workItem from="1630394019776" duration="9223000" />
       <workItem from="1630481511570" duration="2205000" />
       <workItem from="1630493141709" duration="7636000" />
-      <workItem from="1630564261179" duration="12465000" />
+      <workItem from="1630564261179" duration="13641000" />
     </task>
     <task id="LOCAL-00001" summary="Task 14">
       <created>1630094446082</created>
@@ -137,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630573527258</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Test Task 3">
+      <created>1630585366917</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630585366917</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Test Task 3">
+      <created>1630585604571</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630585604571</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +180,7 @@
     <MESSAGE value="Task 18" />
     <MESSAGE value="Test Task HTML" />
     <MESSAGE value="Test Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Task" />
+    <MESSAGE value="Test Task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Task 3" />
   </component>
 </project>
