@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 20">
-      <change afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 21.js" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 21">
+      <change afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 22.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Study assignment in different ways.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <workItem from="1630493141709" duration="7636000" />
       <workItem from="1630564261179" duration="22381000" />
       <workItem from="1630652980668" duration="14197000" />
-      <workItem from="1630913045670" duration="16247000" />
+      <workItem from="1630913045670" duration="19859000" />
     </task>
     <task id="LOCAL-00001" summary="Task 14">
       <created>1630094446082</created>
@@ -271,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630931682464</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Test Task 21">
+      <created>1630934024615</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1630934024615</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +320,7 @@
     <MESSAGE value="Test Task 18" />
     <MESSAGE value="Test Task 19" />
     <MESSAGE value="Test Task 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Task 20" />
+    <MESSAGE value="Test Task 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Task 21" />
   </component>
 </project>
