@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 23">
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 3">
       <change afterPath="$PROJECT_DIR$/Study assignment in different ways.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 10.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 11.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 12.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 13.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 14.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 15.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 16.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 17.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 18.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 19.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 20.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 21.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 22.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 23.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 7.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 8.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 9.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test. 3 Task 6.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +92,7 @@
       <workItem from="1630493141709" duration="7636000" />
       <workItem from="1630564261179" duration="22381000" />
       <workItem from="1630652980668" duration="14197000" />
-      <workItem from="1630913045670" duration="21258000" />
+      <workItem from="1630913045670" duration="21975000" />
     </task>
     <task id="LOCAL-00001" summary="Task 14">
       <created>1630094446082</created>
@@ -291,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630941293466</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Test Task 3">
+      <created>1630941666884</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1630941666884</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +345,6 @@
     <MESSAGE value="Task 18" />
     <MESSAGE value="Test Task HTML" />
     <MESSAGE value="Test Task" />
-    <MESSAGE value="Test Task 3" />
     <MESSAGE value="Test Task 4" />
     <MESSAGE value="Test Task 6" />
     <MESSAGE value="Test Task 7" />
@@ -335,6 +361,7 @@
     <MESSAGE value="Test Task 21" />
     <MESSAGE value="Test Task 22" />
     <MESSAGE value="Test Task 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Task 23" />
+    <MESSAGE value="Test Task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Task 3" />
   </component>
 </project>
