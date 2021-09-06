@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 22">
-      <change afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 23.js" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 23">
       <change afterPath="$PROJECT_DIR$/Study assignment in different ways.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 1. Test 3. Task 3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <workItem from="1630493141709" duration="7636000" />
       <workItem from="1630564261179" duration="22381000" />
       <workItem from="1630652980668" duration="14197000" />
-      <workItem from="1630913045670" duration="20835000" />
+      <workItem from="1630913045670" duration="21258000" />
     </task>
     <task id="LOCAL-00001" summary="Task 14">
       <created>1630094446082</created>
@@ -285,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630940268329</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Test Task 23">
+      <created>1630941293466</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1630941293466</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +310,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 14" />
     <MESSAGE value="Task 15" />
     <MESSAGE value="Task 16" />
     <MESSAGE value="Task 17" />
@@ -329,6 +334,7 @@
     <MESSAGE value="Test Task 20" />
     <MESSAGE value="Test Task 21" />
     <MESSAGE value="Test Task 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Task 22" />
+    <MESSAGE value="Test Task 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Task 23" />
   </component>
 </project>
