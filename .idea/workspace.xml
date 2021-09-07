@@ -4,52 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Test Task 23">
-      <change afterPath="$PROJECT_DIR$/Module 2/Task 1.js" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 1">
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task/Task 2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 20.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 21.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 22.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 23.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1. Test 3. Task 9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 14.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 15.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 16.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 17.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 18.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 19.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 20.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +43,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module 2/Task" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
@@ -114,7 +77,7 @@
       <workItem from="1630564261179" duration="22381000" />
       <workItem from="1630652980668" duration="14197000" />
       <workItem from="1630913045670" duration="22339000" />
-      <workItem from="1630996658498" duration="4748000" />
+      <workItem from="1630996658498" duration="8639000" />
     </task>
     <task id="LOCAL-00001" summary="Task 14">
       <created>1630094446082</created>
@@ -347,7 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630942465810</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Module 2. Task 1">
+      <created>1631012411188</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1631012411188</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Module 2. Task 1">
+      <created>1631012454934</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1631012454934</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +343,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 15" />
     <MESSAGE value="Task 16" />
     <MESSAGE value="Task 17" />
     <MESSAGE value="Task 19" />
@@ -391,6 +367,7 @@
     <MESSAGE value="Test Task 22" />
     <MESSAGE value="Test Task 3" />
     <MESSAGE value="Test Task 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Task 23" />
+    <MESSAGE value="Module 2. Task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 1" />
   </component>
 </project>
