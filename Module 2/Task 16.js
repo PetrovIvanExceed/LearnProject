@@ -9,14 +9,15 @@ let array = [
 
 function testFunc(arr, val, action) {
   return arr.sort(function (a, b) {
-    if (action === 'asc') {
-      return a[val] - b[val]
+    switch (action) {
+      case 'asc':
+        return a[val] - b[val]
+      case 'desc':
+        return b[val] - a[val]
+      default:
+        return a[val] - b[val]
     }
-    if (action === 'desc') {
-      return b[val] - a[val]
-    }
-    return a[val] - b[val]
   })
 }
 
-console.log(testFunc(array, 'age', 'dessac'))
+console.log(testFunc(array, 'age', 'deassc'))
