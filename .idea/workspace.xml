@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 13">
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 15">
       <change afterPath="$PROJECT_DIR$/Module 2/Task 11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/Task 15.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 16.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,7 @@
       <workItem from="1630652980668" duration="14197000" />
       <workItem from="1630913045670" duration="22339000" />
       <workItem from="1630996658498" duration="24862000" />
-      <workItem from="1631082655552" duration="15405000" />
+      <workItem from="1631082655552" duration="17735000" />
     </task>
     <task id="LOCAL-00001" summary="Task 14">
       <created>1630094446082</created>
@@ -418,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631100780929</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Module 2. Task 15">
+      <created>1631105015617</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1631105015617</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +444,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Task 8" />
     <MESSAGE value="Test Task 10" />
     <MESSAGE value="Test Task 11" />
     <MESSAGE value="Test Task 12" />
@@ -462,6 +468,7 @@
     <MESSAGE value="Module 2. Task 10" />
     <MESSAGE value="Module 2. Task 12" />
     <MESSAGE value="Module 2. Task 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 13" />
+    <MESSAGE value="Module 2. Task 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 15" />
   </component>
 </project>
