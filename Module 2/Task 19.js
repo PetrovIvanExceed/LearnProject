@@ -2,8 +2,8 @@
 
 let string = 'text education part 2'
 
-function testFunc(str, val) {
-
+function testFunc(str, end, endval) {
+  return str.substring(0, end)+endval
 }
 
-console.log(testFunc(string, 6))
+console.log(testFunc(string, 6, '...'))
