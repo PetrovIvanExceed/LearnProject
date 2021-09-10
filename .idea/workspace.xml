@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 23">
-      <change afterPath="$PROJECT_DIR$/Module 2/Task 24.js" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 24">
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 25.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +81,7 @@
       <workItem from="1630996658498" duration="24862000" />
       <workItem from="1631082655552" duration="22993000" />
       <workItem from="1631184431108" duration="9906000" />
-      <workItem from="1631258498580" duration="6021000" />
-    </task>
-    <task id="LOCAL-00009" summary="Test Task HTML">
-      <created>1630524284321</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1630524284321</updated>
+      <workItem from="1631258498580" duration="8051000" />
     </task>
     <task id="LOCAL-00010" summary="Test Task">
       <created>1630573527257</created>
@@ -426,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631265202457</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Module 2. Task 24">
+      <created>1631277052834</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1631277052834</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +445,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Task 19" />
     <MESSAGE value="Test Task 20" />
     <MESSAGE value="Test Task 21" />
     <MESSAGE value="Test Task 22" />
@@ -470,6 +469,7 @@
     <MESSAGE value="Module 2. Task 20" />
     <MESSAGE value="Module 2. Task 21" />
     <MESSAGE value="Module 2. Task 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 23" />
+    <MESSAGE value="Module 2. Task 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 24" />
   </component>
 </project>
