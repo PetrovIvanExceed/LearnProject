@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 32">
-      <change afterPath="$PROJECT_DIR$/Module 2/Task 33.js" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 33">
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 34/Task 34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/Task 34/Task.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/Task 32.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2/Task 32.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/Task 11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2/Task 11.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,6 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -81,21 +84,7 @@
       <workItem from="1631082655552" duration="22993000" />
       <workItem from="1631184431108" duration="9906000" />
       <workItem from="1631258498580" duration="11584000" />
-      <workItem from="1631515516789" duration="9040000" />
-    </task>
-    <task id="LOCAL-00019" summary="Test Task 11">
-      <created>1630683092946</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1630683092946</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Test Task 12">
-      <created>1630914727292</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1630914727292</updated>
+      <workItem from="1631515516789" duration="12444000" />
     </task>
     <task id="LOCAL-00021" summary="Test Task 13">
       <created>1630915049790</created>
@@ -426,7 +415,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631533597965</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Module 2. Task 32">
+      <created>1631541776964</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1631541776964</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Module 2. Task 33">
+      <created>1631541855149</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1631541855149</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +448,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 5" />
     <MESSAGE value="Module 2. Task 2" />
     <MESSAGE value="Module 2. Task 7" />
     <MESSAGE value="Module 2. Task 8" />
@@ -470,6 +472,7 @@
     <MESSAGE value="Module 2. Task 30" />
     <MESSAGE value="Module 2. Task 31" />
     <MESSAGE value="Module 2. Task 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 32" />
+    <MESSAGE value="Module 2. Task 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 33" />
   </component>
 </project>
