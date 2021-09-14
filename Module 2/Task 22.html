@@ -1,10 +1,136 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Title</title>
-</head>
+//Создать блок отображения новостей Picture 8.png
 <body>
+<div class="block">
+  <header>
+  </header>
+  <table>
+    <tr>
+      <td><img class="main">
+        <p>30 ноября 2014</p>
+        <a href="#">Важная информация с 1 декабря 2014г.</a>
+      </td>
+      <td><img class="first">
+        <p>29 ноября 2014</p>
+        <a href="#">План мероприятий на декабрь 2014 (г.Москва)</a>
+      </td>
+      <td><img class="second">
+        <p>25 ноября 2014</p>
+        <a href="#">Поздравляем Людмилу Магановну Поезжаеву (Россия, Екатеринбург) с днем рождения!</a>
+      </td>
+    </tr>
+    <tr>
+      <td><img class="third">
+        <p>10 ноября 2014</p>
+        <a href="#">Итоги выставки "Красота. Здоровье. Молодость.</a>
+      </td>
+      <td><img class="four">
+        <p>07 ноября 2014</p>
+        <a href="#">13 ноября II часть курса Интернет-лекций "Территория пептидов"</a>
+      </td>
+      <td><img class="five">
+        <p>05 ноября 2014</p>
+        <a href="#">Участие в шоу-форуме "Худеем Вместе или Путь к Идеальному Телу"</a>
+      </td>
+    </tr>
+  </table>
+  <style>
+    body {
+      background-color: white;
+      font-family: sans-serif;
+      padding: 0px;
+      font-size: 11px;
+    }
 
+    .block {
+      display: block;
+      width: 90%;
+      margin: 20px auto;
+      border: 1px solid #C7C7C7;
+      border-radius: 5px;
+      padding: 0 20px;
+    }
+
+    header {
+      padding: 0;
+    }
+
+    header p {
+      font-weight: bold;
+      line-height: 14px;
+      font-size: 14px;
+      margin-bottom: 0px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #1963A8;
+    }
+
+    a:hover {
+      color: #22158F;
+    }
+
+    header div {
+      float: right;
+      position: relative;
+      bottom: 15px;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 0px;
+    }
+
+    td {
+      width: 33%;
+    }
+
+    td p {
+      font-weight: bold;
+      margin: 9px 0;
+    }
+
+    img {
+      display: block;
+      width: 60px;
+      height: 70px;
+      float: left;
+      margin-right: 5px;
+      margin-top: 10px;
+    }
+
+    .main {
+      background-image: url(https://img-fotki.yandex.ru/get/16108/136164467.7/0_f9511_f35bea60_orig.png);
+      background-position: -35px -65px;
+    }
+
+    .third {
+      background-image: url(https://img-fotki.yandex.ru/get/16108/136164467.7/0_f9511_f35bea60_orig.png);
+      background-position: -35px -155px;
+    }
+
+    .first {
+      background-image: url(https://img-fotki.yandex.ru/get/16108/136164467.7/0_f9511_f35bea60_orig.png);
+      background-position: -335px -65px;
+    }
+
+    .four {
+      background-image: url(https://img-fotki.yandex.ru/get/16108/136164467.7/0_f9511_f35bea60_orig.png);
+      background-position: -335px -155px;
+    }
+
+    .second {
+      background-image: url(https://img-fotki.yandex.ru/get/16108/136164467.7/0_f9511_f35bea60_orig.png);
+      background-position: -635px -75px;
+    }
+
+    .five {
+      background-image: url(https://img-fotki.yandex.ru/get/16108/136164467.7/0_f9511_f35bea60_orig.png);
+      background-position: -635px -165px;
+    }
+
+
+  </style>
+</div>
 </body>
-</html>
