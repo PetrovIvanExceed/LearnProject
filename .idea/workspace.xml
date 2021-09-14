@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 34">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2. Task 11">
       <change beforePath="$PROJECT_DIR$/Module 2/Task 11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2/Task 11.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,19 @@
       <recent name="$PROJECT_DIR$/Module 2/Task" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,14 +82,7 @@
       <workItem from="1631184431108" duration="9906000" />
       <workItem from="1631258498580" duration="11584000" />
       <workItem from="1631515516789" duration="12571000" />
-      <workItem from="1631600503575" duration="3956000" />
-    </task>
-    <task id="LOCAL-00022" summary="Test Task 13">
-      <created>1630918129511</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1630918129511</updated>
+      <workItem from="1631600503575" duration="4217000" />
     </task>
     <task id="LOCAL-00023" summary="Test Task 13">
       <created>1630918872239</created>
@@ -415,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631546938607</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Module 2. Task 11">
+      <created>1631608262863</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1631608262864</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +446,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 7" />
     <MESSAGE value="Module 2. Task 8" />
     <MESSAGE value="Module 2. Task 9" />
     <MESSAGE value="Module 2. Task 10" />
@@ -459,6 +470,7 @@
     <MESSAGE value="Module 2. Task 32" />
     <MESSAGE value="Module 2. Task 33" />
     <MESSAGE value="Module 2. Task 34" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 34" />
+    <MESSAGE value="Module 2. Task 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2. Task 11" />
   </component>
 </project>
