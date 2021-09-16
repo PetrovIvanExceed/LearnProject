@@ -1,0 +1,17 @@
+.progress {
+  background: linear-gradient(to bottom, #333, #999);
+  border: 1px solid #333;
+  height: 20px;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.progress::before{
+  content: '';
+  position: absolute;
+  height: 18px; width: 100px;
+  background: #5bc1fe;
+  background: linear-gradient(to bottom, #5bc1fe,#018ef2 50%, #57befd);
+  border: 1px solid #008DF2;
+  box-shadow: 3px 0 3px rgba(0,0,0,0.5);
+}

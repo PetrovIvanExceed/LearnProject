@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Task 1">
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 2/Task 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 2/Task2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2.1/Task 1/Task 1 CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2.1/Task 1/Task 1 CSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -51,6 +52,21 @@
       <recent name="$PROJECT_DIR$/Module 2/Task" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,14 +92,7 @@
       <workItem from="1631608468196" duration="1322000" />
       <workItem from="1631614607253" duration="2306000" />
       <workItem from="1631690824106" duration="7561000" />
-      <workItem from="1631773394796" duration="1639000" />
-    </task>
-    <task id="LOCAL-00026" summary="Test Task 18">
-      <created>1630926029525</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1630926029525</updated>
+      <workItem from="1631773394796" duration="3309000" />
     </task>
     <task id="LOCAL-00027" summary="Test Task 19">
       <created>1630927830360</created>
@@ -421,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631719422129</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Module 2.1 Task 1">
+      <created>1631778172661</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1631778172661</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
