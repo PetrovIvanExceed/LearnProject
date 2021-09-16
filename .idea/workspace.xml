@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Task 3">
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 5/Task 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 5/Task5.css" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Task 5">
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 6/Task 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 6/Task6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,14 +92,7 @@
       <workItem from="1631608468196" duration="1322000" />
       <workItem from="1631614607253" duration="2306000" />
       <workItem from="1631690824106" duration="7561000" />
-      <workItem from="1631773394796" duration="16690000" />
-    </task>
-    <task id="LOCAL-00031" summary="Test Task 23">
-      <created>1630941293466</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1630941293466</updated>
+      <workItem from="1631773394796" duration="17876000" />
     </task>
     <task id="LOCAL-00032" summary="Test Task 3">
       <created>1630941666884</created>
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631798270903</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Module 2.1 Task 5">
+      <created>1631802112270</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1631802112270</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +456,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 15" />
     <MESSAGE value="Module 2. Task 16" />
     <MESSAGE value="Module 2. Task 17" />
     <MESSAGE value="Module 2. Task 18" />
@@ -481,6 +480,7 @@
     <MESSAGE value="Module 2.1 Task 2" />
     <MESSAGE value="Module 2.1 Task 4" />
     <MESSAGE value="Module 2.1 Task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1 Task 3" />
+    <MESSAGE value="Module 2.1 Task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1 Task 5" />
   </component>
 </project>

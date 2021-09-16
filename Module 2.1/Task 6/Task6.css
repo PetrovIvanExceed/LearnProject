@@ -1,0 +1,31 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 300px;
+  background: #CCCCCC;
+  height: 3px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box {
+  width: 25px;
+  height: 25px;
+  border-radius: 50px;
+  background-color: #B2D235;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box:nth-child(5) {
+  background: #CCCCCC;
+  color: black;
+}
+
+.box:nth-child(4) {
+  background: #AB4A9C;
+}
