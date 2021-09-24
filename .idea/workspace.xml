@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Task 7">
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 8/Task 8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Task 8/Task8.css" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Task 8">
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Layout 3/1231.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Layout 3/Page1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2.1/Layout 3/Page1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,14 +94,13 @@
       <workItem from="1631773394796" duration="18757000" />
       <workItem from="1631863648106" duration="2158000" />
       <workItem from="1631889698871" duration="631000" />
-      <workItem from="1632210019348" duration="7625000" />
-    </task>
-    <task id="LOCAL-00034" summary="Module 2. Task 1">
-      <created>1631012411188</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1631012411188</updated>
+      <workItem from="1632210019348" duration="15690000" />
+      <workItem from="1632295251123" duration="11874000" />
+      <workItem from="1632380656792" duration="17327000" />
+      <workItem from="1632409521494" duration="1652000" />
+      <workItem from="1632467801263" duration="1633000" />
+      <workItem from="1632476190232" duration="3514000" />
+      <workItem from="1632479714414" duration="1816000" />
     </task>
     <task id="LOCAL-00035" summary="Module 2. Task 1">
       <created>1631012454934</created>
@@ -438,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632210164865</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Module 2.1 Task 8">
+      <created>1632224052388</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1632224052388</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +464,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 18" />
     <MESSAGE value="Module 2. Task 19" />
     <MESSAGE value="Module 2. Task 20" />
     <MESSAGE value="Module 2. Task 21" />
@@ -482,6 +488,7 @@
     <MESSAGE value="Module 2.1 Task 5" />
     <MESSAGE value="Module 2.1 Task 6" />
     <MESSAGE value="Module 2.1 Task 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1 Task 7" />
+    <MESSAGE value="Module 2.1 Task 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1 Task 8" />
   </component>
 </project>
