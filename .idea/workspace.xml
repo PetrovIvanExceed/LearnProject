@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Basic is-odd">
+      <change beforePath="$PROJECT_DIR$/JavaFork/education/1. Basic/2) is-odd/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/1. Basic/2) is-odd/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,21 +107,7 @@
       <workItem from="1633942469048" duration="9968000" />
       <workItem from="1634019186450" duration="4657000" />
       <workItem from="1634042087450" duration="106000" />
-      <workItem from="1634042202755" duration="679000" />
-    </task>
-    <task id="LOCAL-00037" summary="Module 2. Task 4">
-      <created>1631020548129</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1631020548129</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Module 2. Task 5">
-      <created>1631023411417</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1631023411417</updated>
+      <workItem from="1634042202755" duration="991000" />
     </task>
     <task id="LOCAL-00039" summary="Module 2. Task 5">
       <created>1631024432109</created>
@@ -452,7 +438,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634039064667</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="education JavaScript Basic basic-sum">
+      <created>1634043004277</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1634043004278</updated>
+    </task>
+    <task id="LOCAL-00087" summary="education JavaScript Basic is-odd">
+      <created>1634043190319</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1634043190319</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,8 +471,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 21" />
-    <MESSAGE value="Module 2. Task 23" />
     <MESSAGE value="Module 2. Task 24" />
     <MESSAGE value="Module 2. Task 25" />
     <MESSAGE value="Module 2. Task 26" />
@@ -496,6 +494,8 @@
     <MESSAGE value="Module 2.1 Task 8" />
     <MESSAGE value="Module 2.1 Layout 3" />
     <MESSAGE value="Module 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1" />
+    <MESSAGE value="education JavaScript Basic basic-sum" />
+    <MESSAGE value="education JavaScript Basic is-odd" />
+    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Basic is-odd" />
   </component>
 </project>
