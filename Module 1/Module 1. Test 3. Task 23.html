@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+<script>
+  let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244,
+    2545, 6, 3, 9];
+  let array1 = [5, 7, 2, 9, -3, 435, 67, -25, 12, 754, 2345, 2, 8, 244,
+    2545, 6, 3, 9];
+
+  function testFunc(arr, arr1) {
+    arr1.forEach(elem => arr.push(elem))
+    return [...new Set(arr)]
+  }
+
+  console.log(testFunc(array, array1))
+</script>
+</body>
+</html>

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Task 8">
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Layout 3/1231.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Layout 3/Page1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2.1/Layout 3/Page1.html" afterDir="false" />
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="Module 2.1 Layout 3">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,7 @@
   </component>
   <component name="ProjectId" id="1xKBrvG7xURxW7mdt5ugu0mhKeJ" />
   <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -39,11 +39,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaFork" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -54,13 +56,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,14 +104,10 @@
       <workItem from="1632409521494" duration="1652000" />
       <workItem from="1632467801263" duration="1633000" />
       <workItem from="1632476190232" duration="3514000" />
-      <workItem from="1632479714414" duration="1816000" />
-    </task>
-    <task id="LOCAL-00035" summary="Module 2. Task 1">
-      <created>1631012454934</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1631012454934</updated>
+      <workItem from="1632479714414" duration="3206000" />
+      <workItem from="1632899060594" duration="599000" />
+      <workItem from="1633942469048" duration="9968000" />
+      <workItem from="1634019186450" duration="3696000" />
     </task>
     <task id="LOCAL-00036" summary="Module 2. Task 3">
       <created>1631016294955</created>
@@ -445,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632224052388</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Module 2.1 Layout 3">
+      <created>1632482073187</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1632482073187</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +471,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 19" />
     <MESSAGE value="Module 2. Task 20" />
     <MESSAGE value="Module 2. Task 21" />
     <MESSAGE value="Module 2. Task 23" />
@@ -489,6 +495,7 @@
     <MESSAGE value="Module 2.1 Task 6" />
     <MESSAGE value="Module 2.1 Task 7" />
     <MESSAGE value="Module 2.1 Task 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1 Task 8" />
+    <MESSAGE value="Module 2.1 Layout 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2.1 Layout 3" />
   </component>
 </project>

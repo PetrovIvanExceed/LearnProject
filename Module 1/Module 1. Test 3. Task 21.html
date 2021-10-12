@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+<script>
+  let array = [5, 7, 2, 9, 4, 2, 8, 9, 4, 2, 7, 4, 12, 754, 2345, 2, 8, 244,
+    2545, 6, 3, 9];
+
+  function testFunc(arr) {
+    let max = Math.max(...arr)
+    let index = arr.indexOf(max, 0)
+    let count = arr.filter(value => value === max).length
+    return {
+      max: max,
+      index: index,
+      count: count
+    }
+  }
+
+  console.log(testFunc(array));
+</script>
+</body>
+</html>
