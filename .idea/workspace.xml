@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Basic search-string">
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Data Types is-equal-simple">
+      <change afterPath="$PROJECT_DIR$/Fibo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFork/education/1. Basic/4) factorial/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/1. Basic/4) factorial/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFork/education/3. Array/1) full-sum/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/3. Array/1) full-sum/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -95,28 +98,8 @@
       <workItem from="1634019186450" duration="4657000" />
       <workItem from="1634042087450" duration="106000" />
       <workItem from="1634042202755" duration="4383000" />
-      <workItem from="1634110322301" duration="624000" />
-    </task>
-    <task id="LOCAL-00042" summary="Module 2. Task 7">
-      <created>1631038060652</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1631038060652</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Module 2. Task 8">
-      <created>1631041779626</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1631041779626</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Module 2. Task 9">
-      <created>1631044409540</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1631044409540</updated>
+      <workItem from="1634110322301" duration="6136000" />
+      <workItem from="1634123178213" duration="533000" />
     </task>
     <task id="LOCAL-00045" summary="Module 2. Task 10">
       <created>1631044800390</created>
@@ -440,7 +423,28 @@
       <option name="project" value="LOCAL" />
       <updated>1634047266999</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="education JavaScript Data Types string-to-type">
+      <created>1634111246445</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1634111246445</updated>
+    </task>
+    <task id="LOCAL-00092" summary="education JavaScript Data Types sum-check">
+      <created>1634111405880</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1634111405880</updated>
+    </task>
+    <task id="LOCAL-00093" summary="education JavaScript Data Types is-equal-simple">
+      <created>1634111425956</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1634111425956</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,9 +463,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 26" />
-    <MESSAGE value="Module 2. Task 27" />
-    <MESSAGE value="Module 2. Task 28" />
     <MESSAGE value="Module 2. Task 29" />
     <MESSAGE value="Module 2. Task 30" />
     <MESSAGE value="Module 2. Task 31" />
@@ -484,6 +485,9 @@
     <MESSAGE value="education JavaScript Basic is-odd" />
     <MESSAGE value="education JavaScript Basic basic-calc" />
     <MESSAGE value="education JavaScript Basic search-string" />
-    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Basic search-string" />
+    <MESSAGE value="education JavaScript Data Types string-to-type" />
+    <MESSAGE value="education JavaScript Data Types sum-check" />
+    <MESSAGE value="education JavaScript Data Types is-equal-simple" />
+    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Data Types is-equal-simple" />
   </component>
 </project>
