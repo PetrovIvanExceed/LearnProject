@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Basic basic-calc">
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Basic search-string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFork/education/1. Basic/5) search-string/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/1. Basic/5) search-string/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +55,6 @@
       <recent name="$PROJECT_DIR$/Module 2/Task" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,14 +94,8 @@
       <workItem from="1633942469048" duration="9968000" />
       <workItem from="1634019186450" duration="4657000" />
       <workItem from="1634042087450" duration="106000" />
-      <workItem from="1634042202755" duration="3169000" />
-    </task>
-    <task id="LOCAL-00041" summary="Module 2. Task 7">
-      <created>1631038051631</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1631038051631</updated>
+      <workItem from="1634042202755" duration="4383000" />
+      <workItem from="1634110322301" duration="624000" />
     </task>
     <task id="LOCAL-00042" summary="Module 2. Task 7">
       <created>1631038060652</created>
@@ -453,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634043818093</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="education JavaScript Basic search-string">
+      <created>1634047266999</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1634047266999</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +459,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Module 2. Task 25" />
     <MESSAGE value="Module 2. Task 26" />
     <MESSAGE value="Module 2. Task 27" />
     <MESSAGE value="Module 2. Task 28" />
@@ -497,6 +483,7 @@
     <MESSAGE value="education JavaScript Basic basic-sum" />
     <MESSAGE value="education JavaScript Basic is-odd" />
     <MESSAGE value="education JavaScript Basic basic-calc" />
-    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Basic basic-calc" />
+    <MESSAGE value="education JavaScript Basic search-string" />
+    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Basic search-string" />
   </component>
 </project>
