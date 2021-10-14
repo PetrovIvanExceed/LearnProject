@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Basic factorial">
+    <list default="true" id="826ced39-3b33-48a7-b020-d5519fa25787" name="Default Changelist" comment="education JavaScript Basic search-string">
       <change afterPath="$PROJECT_DIR$/Fibo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFork/education/1. Basic/5) search-string/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/1. Basic/5) search-string/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFork/education/2. Data Types/1) string-to-type/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/2. Data Types/1) string-to-type/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaFork/education/3. Array/1) full-sum/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFork/education/3. Array/1) full-sum/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,14 +100,7 @@
       <workItem from="1634042202755" duration="4383000" />
       <workItem from="1634110322301" duration="6136000" />
       <workItem from="1634123178213" duration="6055000" />
-      <workItem from="1634196407949" duration="1851000" />
-    </task>
-    <task id="LOCAL-00047" summary="Module 2. Task 13">
-      <created>1631092566004</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1631092566004</updated>
+      <workItem from="1634196407949" duration="6940000" />
     </task>
     <task id="LOCAL-00048" summary="Module 2. Task 13">
       <created>1631100780929</created>
@@ -445,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634129708080</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="education JavaScript Basic search-string">
+      <created>1634198439497</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1634198439498</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,11 +484,11 @@
     <MESSAGE value="education JavaScript Basic basic-sum" />
     <MESSAGE value="education JavaScript Basic is-odd" />
     <MESSAGE value="education JavaScript Basic basic-calc" />
-    <MESSAGE value="education JavaScript Basic search-string" />
     <MESSAGE value="education JavaScript Data Types string-to-type" />
     <MESSAGE value="education JavaScript Data Types sum-check" />
     <MESSAGE value="education JavaScript Data Types is-equal-simple" />
     <MESSAGE value="education JavaScript Basic factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Basic factorial" />
+    <MESSAGE value="education JavaScript Basic search-string" />
+    <option name="LAST_COMMIT_MESSAGE" value="education JavaScript Basic search-string" />
   </component>
 </project>
